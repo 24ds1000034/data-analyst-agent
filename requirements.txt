@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-multipart # For handling form data (like -F "@question.txt")
+pydantic # FastAPI uses Pydantic for data validation
